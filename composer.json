@@ -1,0 +1,14 @@
+{
+    "name": "chenxiaofeng/packagedemo",
+    "description": "just for test package",
+    "type": "tools",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenxiaofeng",
+            "email": "512766594@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
